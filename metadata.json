@@ -1,0 +1,6 @@
+{
+  "name": "FAM Bet Correct Score VIP",
+  "description": "FAM Bet Correct Score VIP is an interactive betting predictions and VIP ticket manager. Features premium 1-day correct score & full-time match suggestions, professional ROI investment calculators, custom ticket builder, Google login, secure order ID generation, payout bank accounts, and Amharic support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
